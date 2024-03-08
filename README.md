@@ -1,7 +1,7 @@
 # Excel_Project
 
 ###### Excited to share my latest project: 
-### An Excel Dashboard analyzing UK road accident data!
+### 🚘An Excel Dashboard analyzing UK road accident data!
 
 ###### I've dived deep into the numbers to uncover insights about accident trends, locations and contributing factors. 
 
@@ -18,3 +18,5 @@
 ###### 2.Utilization of formula and making dashboard dynamic 
 ###### 3.Use of Hyperlink for easy navigation and drop email as required
 ###### 4.Grouping of categorical data to make it concise for usage and better outcomes.
+
+
