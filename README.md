@@ -19,4 +19,9 @@
 ###### 3.Use of Hyperlink for easy navigation and drop email as required
 ###### 4.Grouping of categorical data to make it concise for usage and better outcomes.
 
+#### Dashboard-
+
+
+
+![UK road accident dashboard (2)](https://github.com/Sarika2109/Excel-Project/assets/153561717/139e0fe2-43e9-4a50-85cc-95a78b23713d)
 
